@@ -1,0 +1,13 @@
+Source: ros-kinetic-turtlebot3-follower
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin, ros-kinetic-geometry-msgs, ros-kinetic-nav-msgs, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Homepage: http://turtlebot3.robotis.com
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-turtlebot3-follower
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-geometry-msgs, ros-kinetic-nav-msgs, ros-kinetic-rospy, ros-kinetic-sensor-msgs, ros-kinetic-std-msgs
+Description: The follower demo was implemented using a 360 Laser Distance Sensor LDS-01.
+ The classification algorithm is used based on previous fitting with samples of person and obstacles positions to take actions. It follows someone in front of the robot within a 50 centimeter range and 140 degrees.
