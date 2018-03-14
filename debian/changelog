@@ -1,0 +1,9 @@
+ros-kinetic-turtlebot3-automatic-parking (0.1.0-0xenial) xenial; urgency=high
+
+  * added turtlebot3_automatic_parking pkg
+  * refactoring to release
+  * Contributors: Gilbert, Leon Jung, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 13 Mar 2018 15:00:00 -0000
+
+
