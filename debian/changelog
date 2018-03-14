@@ -1,0 +1,9 @@
+ros-kinetic-turtlebot3-follow-filter (0.1.0-0jessie) jessie; urgency=high
+
+  * added turtlebot3_follow_filter pkg
+  * refactoring to release
+  * Contributors: Ashe, Chris
+
+ -- Pyo <pyo@robotis.com>  Tue, 13 Mar 2018 15:00:00 -0000
+
+

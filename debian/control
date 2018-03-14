@@ -1,0 +1,12 @@
+Source: ros-kinetic-turtlebot3-follow-filter
+Section: misc
+Priority: extra
+Maintainer: Pyo <pyo@robotis.com>
+Build-Depends: debhelper (>= 9.0.0), ros-kinetic-catkin
+Homepage: http://turtlebot3.robotis.com
+Standards-Version: 3.9.2
+
+Package: ros-kinetic-turtlebot3-follow-filter
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}, ros-kinetic-laser-filters
+Description: turtlebot3_follow_filter package using laser_filters for turtlebot3_follower package
