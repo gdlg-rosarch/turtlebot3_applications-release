@@ -1,0 +1,12 @@
+ros-kinetic-turtlebot3-applications (0.1.0-0xenial) xenial; urgency=high
+
+  * added turtlebot3_automatic_parking pkg
+  * added turtlebot3_follow_filter pkg
+  * added turtlebot3_follower pkg
+  * added turtlebot3_automatic_parking pkg
+  * refactoring to release
+  * Contributors: Ashe, Chris, Leon Jung, Darby Lim, Gilbert, Pyo
+
+ -- Pyo <pyo@robotis.com>  Tue, 13 Mar 2018 15:00:00 -0000
+
+
