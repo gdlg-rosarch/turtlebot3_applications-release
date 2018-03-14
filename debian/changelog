@@ -1,0 +1,9 @@
+ros-kinetic-turtlebot3-follower (0.1.0-0xenial) xenial; urgency=high
+
+  * added turtlebot3_follower pkg
+  * refactoring to release
+  * Contributors: Ashe, Chris, Darby Lim
+
+ -- Pyo <pyo@robotis.com>  Tue, 13 Mar 2018 15:00:00 -0000
+
+
